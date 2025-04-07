@@ -24,4 +24,5 @@
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ashwin-karanthamalai-04aa73213/)  
-📧 ashwinkaranthamalai@gmail.com
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ashwinkaranthamalai@gmail.com)
+
