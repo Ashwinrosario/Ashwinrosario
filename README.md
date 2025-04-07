@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ashwin K
 
-<!--
-**Ashwinrosario/Ashwinrosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+| Frontend     | Backend    | Languages     | Tools     | DB                  |
+|--------------|------------|---------------|-----------|---------------------|
+| React        | Express    | Python        | Git       | PostgreSQL          |
+| SCSS         | Node.js    | JavaScript    |           | MongoDB             |
+|              |            |               |           |                     |
+
+---
+
+### 📊 GitHub Stats
+
+![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwinrosario&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinrosario&layout=compact&theme=radical)
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ashwin-karanthamalai-04aa73213/)  
+📧 ashwinkaranthamalai@gmail.com
