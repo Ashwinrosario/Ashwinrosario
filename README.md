@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashwin K
+# 👋 Hi there, I'm Ashwin
 
 💻 **Software Developer**
 
